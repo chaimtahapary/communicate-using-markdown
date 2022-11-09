@@ -4,5 +4,7 @@
 #### this is Header <h4>
 ##### this is Header <h5>
 ###### this is Header <h6>
-
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
